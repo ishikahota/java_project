@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AWS Cloud Services.<br>👯 I’m looking to collaborate on Web Development.<br>🌱 I’m currently learning  MERN Stack, and DevOps.<br>💬 Ask me about AWS Services(EC2, VPC, S3, RDS, EBS), Python, <br>⚡ Fun fact a symphony of dance and voice.
+🔭 I’m currently working on AWS Cloud Services.<br>👯 I’m looking to collaborate on Web Development.<br>🌱 I’m currently learning  MERN Stack, and DevOps.<br>💬 Ask me about AWS Services(EC2, VPC, S3, RDS, EBS), Python. <br>⚡ Fun fact a symphony of dance and voice.
 
 
 ## 🌐 Socials:
